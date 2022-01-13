@@ -1,4 +1,4 @@
-<a href="#" style="margin: 0 auto; display: block; display: flex; justify-content: center"><img width="100%" style="max-width: 500px" height="auto" src="dilunga_focus.png" height="175px"/></a>
+<a href="#" style="margin: 0 auto; display: block; display: flex; justify-content: center"><img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilunga SR</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Tanzania.</h3>
