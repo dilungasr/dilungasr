@@ -24,18 +24,18 @@
     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
      <a style="padding-right:8px;" href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" width="48" height="48"/> </a>
-      <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="express" width="48" height="48"/> </a>
+      <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
     <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
     <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gimp.png" width="48" height="48"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
+    <a href="https://figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a> 
+    <a href="https://www.gimp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gimp.png" width="48" height="48"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
    
     
 </p>
@@ -46,10 +46,10 @@
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-     <a style="padding-right:8px;" href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/pop-os-logo.png"/> </a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-elementary-os-is-a-linux-distribution-based-on-ubuntu-logo-color-tal-revivo.png" height="39" width="39"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
+     <a style="padding-right:8px;" href="https://pop.system76.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/pop-os-logo.png"/> </a>
+      <a href="https://elementary.io/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-elementary-os-is-a-linux-distribution-based-on-ubuntu-logo-color-tal-revivo.png" height="39" width="39"/> </a>
+    <a href="https://www.kali.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a> 
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
 
 </p>
 
@@ -65,15 +65,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dilungasr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilungasr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/dilungasr"><img alt="Dilunga SR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dilungasr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Dilunga SR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilungasr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dilungasr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/dilungasr"><img alt="Dilunga SR's Contribution Stats" src="https://activity-graph.herokuapp.com/graph?username=dilungasr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -82,12 +82,15 @@
 
 <p align="left">
 
-<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/dilunga-sr-93/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/channel/UCT72pY7IWmD8J6kv_zHjJ6A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+<!--
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
-<a href = "https://www.instagram.com/dilungasr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/dilungasr"><img src="https://img.icons8.com/fluency/48/000000/facebook-circled.png"/></a>
 
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a href = "https://www.instagram.com/dilungasr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
