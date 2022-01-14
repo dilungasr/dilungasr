@@ -1,4 +1,4 @@
-<a href="#" style="margin: 0 auto; display: block; display: flex; justify-content: center"><img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="https://github.com/dilungasr"><img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilunga SR</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Tanzania.</h3>
@@ -58,7 +58,7 @@
 
 <p align="center">
     <a href="https://github.com/dilungasr">
-        <img title="🔥 Dilunga SR's stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dilungasr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Dilunga SR's streaks" alt="Dilunga SR's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=dilungasr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -81,22 +81,17 @@
 ## Connect with me:
 
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/dilunga-sr-93/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCT72pY7IWmD8J6kv_zHjJ6A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-<!--
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-
 <a href = "https://www.facebook.com/dilungasr"><img src="https://img.icons8.com/fluency/48/000000/facebook-circled.png"/></a>
-
 <a href = "https://www.instagram.com/dilungasr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
+
+
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/dilungasr">
     <img src="https://komarev.com/ghpvc/?username=dilungasr">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/dilungasr?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/dilungasr?tab=followers"><img src="https://img.shields.io/github/followers/dilungasr?label=Followers&style=social" alt="GitHub Badge"></a>
