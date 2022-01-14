@@ -25,6 +25,7 @@
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
      <a style="padding-right:8px;" href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" width="48" height="48"/> </a>
       <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js" width="48" height="48"/> </a>
+      <a href="https://quasar.dev/" target="_blank"> <img src="quasar_logo.svg" alt="quasar" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
