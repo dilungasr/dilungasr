@@ -5,9 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dnet](https://github.com/dilungasr/dnet)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m currently working on **[vue3-br](https://github.com/dilungasr/vue3-br)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
