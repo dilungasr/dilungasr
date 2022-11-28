@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **dilungasalumtz@gmail.com**
+- 📫 How to reach me **dilungathegreat@gmail.com**
 
 <!-- - ⚡ Fun fact **** -->
 
