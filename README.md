@@ -72,7 +72,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/dilungasr"><img alt="Dilunga SR's Contribution Stats" src="https://activity-graph.herokuapp.com/graph?username=dilungasr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Dilunga the Great's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dilungasr&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
