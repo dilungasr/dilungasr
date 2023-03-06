@@ -1,11 +1,10 @@
-<a href="https://github.com/dilungasr"><img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilunga SR</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Tanzania.</h3>
+<h3 align="center">I am Dilunga the Great</h3>
 
 ## 🙋‍♂️ About Me
+- 🚀 I'm a gift from Tanzania
 
-- 🔭 I’m currently working on **[vue3-br](https://github.com/dilungasr/vue3-br)**
+- 🔭 Golang, Vue JS, and MongDB are my DNAs
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
