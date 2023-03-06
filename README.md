@@ -1,16 +1,16 @@
 
 <h3 align="center">I am Dilunga the Great</h3>
 
-## 🙋‍♂️ About Me
-- 🚀 I'm a gift from Tanzania
+##  About Me
+- 🚀 I'm Tanzanian. I'm Black.
 
-- 🔭 Golang, Vue JS, and MongDB are my DNAs
+- 🔭 I build stuffs in Golang, Vue JS, and MongDB
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m open to open the sources
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **dilungathegreat@gmail.com**
+- 📫 Reach me **dilungathegreat@gmail.com**
 
 <!-- - ⚡ Fun fact **** -->
 
