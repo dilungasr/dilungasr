@@ -79,7 +79,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.instagram.com/thegreatdilunga/"><img src="https://img.icons8.com/color/48/null/twitter--v1.png""/></a>
+<a href = "https://twitter.com/DilungaTheGreat"><img src="https://img.icons8.com/color/48/null/twitter--v1.png""/></a>
 <a href = "https://www.linkedin.com/in/dilunga-sr-93/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <!--
