@@ -79,10 +79,15 @@
 ## Connect with me:
 
 <p align="left">
+<a href = "https://www.instagram.com/thegreatdilunga/"><img src="https://img.icons8.com/color/48/null/twitter--v1.png""/></a>
 <a href = "https://www.linkedin.com/in/dilunga-sr-93/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<!--
 <a href = "https://www.youtube.com/channel/UCT72pY7IWmD8J6kv_zHjJ6A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/dilungasr"><img src="https://img.icons8.com/fluency/48/000000/facebook-circled.png"/></a>
-<a href = "https://www.instagram.com/dilungasr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/thegreatdilunga/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+-->
+
 </p>
 
 
